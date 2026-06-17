@@ -21,3 +21,6 @@ GET /profile → Protected route
 ## Setup
 npm install  
 node server.js
+
+## Author
+Sakthi Sree
